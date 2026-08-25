@@ -5,3 +5,25 @@
 Adds elemental carbon items to the game, including flake graphite, graphite, diamonds, graphene, fullerenes, nanotubes, and carbon black. It also adds a crucible intermediate.
 
 Flake graphite is a mineable resource that is processed into graphite. Graphite can be used in certain recipes, and can be further processed into diamonds and graphene. Graphite can be processed into fullerenes and then nanotubes. Carbon black is available as a byproduct of oil processing, used to make plastic and rubber.
+
+## What's in this mod?
+
+### Graphite Processing
+
+#### Flake Graphite
+
+Flake Graphite node placement is preliminary and subject to change based on playtesting and feedback.
+
+<details>
+<summary>Map (spoiler!)</summary>
+<img src="https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Map.png?raw=true" alt="Map" width="100%" /> <!-- markdownlint-disable MD044 --> <br />
+Legend: Green = Pure, Orange = Normal, Red = Impure
+</details>
+
+#### Graphite
+
+![Graphite recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Graphite.png?raw=true)
+
+## License
+
+This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
