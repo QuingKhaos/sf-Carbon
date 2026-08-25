@@ -24,6 +24,8 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Graphite recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Graphite.png?raw=true)
 
+![Graphite Diamonds alternate recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Alternate_GraphiteDiamonds.png?raw=true)
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
