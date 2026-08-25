@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
+	"Version": 0,
 	"VersionName": "0.1.0",
 	"SemVersion": "0.1.0",
 	"FriendlyName": "Graphite & Diamonds",
@@ -17,6 +17,11 @@
 	"Installed": false,
 	"BuiltInInitialFeatureState": "Active",
 	"Plugins": [
+		{
+			"Name": "GeothermalSteam",
+			"Enabled": true,
+			"SemVersion": "^1.0.0"
+		},
 		{
 			"Name": "KBFL",
 			"Enabled": true,
