@@ -1,0 +1,31 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+conditions:
+  hasMod:
+    - Silicon@>=0.1.0
+patches:
+  - target: /Carbon/Resources/Crucible/Recipe_Crucible.Recipe_Crucible_C
+    properties:
+      - path: mIngredients[2].ItemClass
+        value: /Silicon/Resources/Silicon/Desc_Silicon.Desc_Silicon_C
+      - path: mProduct[0].Amount
+        op: add
+        value: 1
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+conditions:
+  hasMod:
+    - Zirconium@>=0.1.0
+patches:
+  - target: /Carbon/Resources/Crucible/Recipe_Crucible.Recipe_Crucible_C
+    properties:
+      - path: mIngredients
+        op: append
+        value:
+          ItemClass: /Zirconium/Resources/Zirconia/Desc_Zirconia.Desc_Zirconia_C
+          Amount: 5
+      - path: mProduct[0].Amount
+        op: add
+        value: 1

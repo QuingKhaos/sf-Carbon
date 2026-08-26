@@ -38,6 +38,16 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Carbon Black recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_CarbonBlack.png?raw=true)
 
+### Crucible
+
+![Crucible recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Crucible.png?raw=true)
+
+If [Silicon](https://ficsit.app/mod/Silicon) is installed, Silica is replaced with Silicon. If [Zirconium](https://ficsit.app/mod/Zirconium) is installed, 5 Zirconia is added to the recipe. Each change increases the recipes output amount by 1.
+
+## Credits
+
+- Crucible model based on [Melting Pot](https://sketchfab.com/3d-models/melting-pot-068ae83fe4864916a0c3541fdd03b2a4) by [Fabian Veleda](https://sketchfab.com/fabian_veleda) licensed under [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
