@@ -4,7 +4,7 @@
 
 Adds elemental carbon items to the game, including flake graphite, graphite, diamonds, graphene, fullerenes, nanotubes, and carbon black. It also adds a crucible intermediate.
 
-Flake graphite is a mineable resource that is processed into graphite. Graphite can be used in certain recipes, and can be further processed into diamonds and graphene. Graphite can be processed into fullerenes and then nanotubes. Carbon black is available as a byproduct of oil processing, used to make plastic and rubber.
+Flake graphite is a mineable resource that is processed into graphite. Graphite can be used in certain recipes, and can be further processed into graphene. Graphite can be processed into fullerenes. Carbon black is available as a byproduct of oil processing, used to make plastic and rubber. If [Salt & Chlorine](https://ficsit.app/mod/Chlorine) is installed, Carbon Fiber is added too.
 
 ## What's in this mod?
 
@@ -43,6 +43,16 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 ![Crucible recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Crucible.png?raw=true)
 
 If [Silicon](https://ficsit.app/mod/Silicon) is installed, Silica is replaced with Silicon. If [Zirconium](https://ficsit.app/mod/Zirconium) is installed, 5 Zirconia is added to the recipe. Each change increases the recipes output amount by 1.
+
+### Carbon Fiber
+
+#### Polyacrylonitrile
+
+![Polyacrylonitrile recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Polyacrylonitrile.png?raw=true)
+
+#### Carbon Fiber
+
+![Carbon Fiber recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_CarbonFiber.png?raw=true)
 
 ## Credits
 
