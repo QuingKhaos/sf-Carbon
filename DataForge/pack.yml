@@ -3,5 +3,6 @@ $schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/
 ref: Carbon
 name: Graphite
 version: 0.1.0
+priority: 50
 contributer:
   - QuingKhaos

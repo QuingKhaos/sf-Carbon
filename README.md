@@ -4,7 +4,7 @@
 
 Adds elemental carbon items to the game, including flake graphite, graphite, graphene, fullerenes, and carbon black. It also adds a crucible intermediate.
 
-Flake graphite is a mineable resource that is processed into graphite. Graphite can be used in certain recipes, and can be further processed into graphene. Graphite can be processed into fullerenes. Carbon black is available as a byproduct of oil processing, used to make plastic and rubber. If [Salt & Chlorine](https://ficsit.app/mod/Chlorine) is installed, Carbon Fiber is made available too.
+Flake graphite is a mineable resource that is processed into graphite. Graphite can be used in certain recipes, and can be further processed into graphene. Graphite can be processed into fullerenes. Carbon black is available as a byproduct of oil processing, used to make plastic and rubber.If [Salt & Chlorine](https://ficsit.app/mod/Chlorine) is installed, Carbon Fiber is made available too. 
 
 ## What's in this mod?
 
@@ -24,15 +24,19 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Graphite recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Graphite.png?raw=true)
 
+![Graphite Steel Ingot alternate recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Alternate_GraphiteSteelIngot.png?raw=true)
+
+![Graphite Circuit Board alternate recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Alternate_GraphiteCircuitBoard.png?raw=true)
+
 ![Graphite Diamonds alternate recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Alternate_GraphiteDiamonds.png?raw=true)
+
+#### Fullerenes
+
+![Fullerenes recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Fullerenes.png?raw=true)
 
 ### Graphene
 
 ![Graphene recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Graphene.png?raw=true)
-
-### Fullerenes
-
-![Fullerenes recipe](https://github.com/QuingKhaos/sf-Carbon/blob/0.x/.github/images/Recipe_Fullerenes.png?raw=true)
 
 ### Carbon Black
 

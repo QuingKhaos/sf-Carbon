@@ -1,0 +1,11 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_PowerStorageMk1.Recipe_PowerStorageMk1_C
+    properties:
+      - path: mIngredients
+        op: append
+        value:
+          ItemClass: /Carbon/Resources/Graphite/Desc_Graphite.Desc_Graphite_C
+          Amount: 10

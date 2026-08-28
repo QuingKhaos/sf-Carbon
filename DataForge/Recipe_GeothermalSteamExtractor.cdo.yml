@@ -1,0 +1,11 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+patches:
+  - target: /GeothermalSteam/Buildables/GeothermalSteamExtractorMk1/Recipe_GeothermalSteamExtractorMk1.Recipe_GeothermalSteamExtractorMk1_C
+    properties:
+      - path: mIngredients
+        op: remove
+        value:
+          ItemClass: /Game/FactoryGame/Resource/Parts/HighSpeedConnector/Desc_HighSpeedConnector.Desc_HighSpeedConnector_C
+          Amount: 25
