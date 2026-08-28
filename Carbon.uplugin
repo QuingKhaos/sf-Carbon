@@ -18,6 +18,11 @@
 	"BuiltInInitialFeatureState": "Active",
 	"Plugins": [
 		{
+			"Name": "ExtendedMachines",
+			"Enabled": true,
+			"SemVersion": "1.3.0"
+		},
+		{
 			"Name": "GeothermalSteam",
 			"Enabled": true,
 			"SemVersion": "^1.0.0"

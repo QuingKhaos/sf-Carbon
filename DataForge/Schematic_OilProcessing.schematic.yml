@@ -6,3 +6,5 @@ schematics:
     register: false
     recipes:
       - /Carbon/Resources/CarbonBlack/Recipe_CarbonBlack.Recipe_CarbonBlack_C
+      - /Carbon/Recipes/Recipe_CarbonPlastic.Recipe_CarbonPlastic_C
+      - /Carbon/Recipes/Recipe_CarbonRubber.Recipe_CarbonRubber_C
